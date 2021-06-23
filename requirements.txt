@@ -1,3 +1,4 @@
 nb_black
 plotly
 pycountry-convert
+haversine
